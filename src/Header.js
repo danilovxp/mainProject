@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 
-function App() {
+function Header() {
   return (
     <div className="app-header">
-
+        whatsup
     </div>
   );
 }
 
-export default App;
+export default Header;
